@@ -1,4 +1,15 @@
 # Getting Started
+- Skip navigation Link
+- ARIA
+
+
+
+
+
+
+
+
+
 Install the dependencies and run the project in watch mode
 ```
 npm install
